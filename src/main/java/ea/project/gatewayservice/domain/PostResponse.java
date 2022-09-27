@@ -16,4 +16,5 @@ public class PostResponse {
     private String content;
     private String lastUpdate;
     private List<Attachment> attachments;
+    private List<Comment> comments;
 }
